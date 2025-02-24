@@ -60,6 +60,6 @@ This project implements **Image Steganography** using Python and OpenCV, allowin
 ---
 
 ## 🔗 GitHub Repository
-[GitHub Link](https://github.com/yourusername/image-steganography)
+[GitHub Link](https://github.com/niranjanNRJ/intern_project.git)
 
 ---
